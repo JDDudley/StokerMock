@@ -1,0 +1,33 @@
+{
+  "stoker":{
+      "sensors":[
+         {
+            "id":"370000127E6A0130",
+            "name":"Pit Probe",
+            "al":0,
+            "ta":250,
+            "th":32,
+            "tl":32,
+            "tc":74,
+            "blower":"C900000012027F05"
+         },
+         {
+            "id":"420000127E79E330",
+            "name":"Meat Probe",
+            "al":0,
+            "ta":195,
+            "th":32,
+            "tl":32,
+            "tc":76,
+            "blower":null
+         }
+      ],
+      "blowers":[
+         {
+            "id":"C900000012027F05",
+            "name":"10 CFM Blower",
+            "on":1
+         }
+      ]
+   }
+}
